@@ -2,19 +2,19 @@
 
 ### 👾 About Me
 
-<h4> Engenheiro mecatrônico e especialista em Data Science & IA, com experiência em desenvolvimento de APIs, aplicações web e projetos de Machine Learning. Trabalho com Python, R, React.js, AWS, Docker e Big Data, transformando dados em soluções reais. </>
+<h4> Engenheiro mecatrônico e especialista em Data Science & IA, com experiência em desenvolvimento de APIs, aplicações web e projetos de Machine Learning. Trabalho com Python, R, React.js, AWS, Docker e Big Data, transformando dados em soluções reais.</h4>
 
 ---
 
 ### Tecnologias em aprendizado  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-<div align="center" style="width: 100%; margin: 0 auto;">
+<div align="center" style="max-width: 100%; margin: 0 auto;">
 
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+<table>
 <tr>
-<td valign="top" align="center" style="width: 33%;">
+<td width="33%" valign="top" align="center">
 
-<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 4px; display: inline-block; max-width: 95%;">
+<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 
 #### 🔹 Linguagens de Programação
 <p align="center">
@@ -32,12 +32,12 @@
 
 #### 🔹 Data Engineering & Big Data
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="35" height="35" alt="Apache Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="35" height="35" alt="Hadoop"/>
-  <img src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" width="35" height="35" alt="Pentaho"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35" height="35" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="32" height="32" alt="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="32" height="32" alt="Hadoop"/>
+  <img src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" width="32" height="32" alt="Pentaho"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32" height="32" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB"/>
 </p>
 
 </div>
@@ -66,11 +66,11 @@
 
 #### 🔹 Machine Learning & AI
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="38" height="38" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="38" height="38" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" height="38" alt="PyTorch"/>
-  <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" width="38" height="38" alt="MLFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" height="35" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="35" height="35" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" height="35" alt="PyTorch"/>
+  <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" width="35" height="35" alt="MLFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="35" height="35" alt="scikit-learn"/>
 </p>
 
 </div>

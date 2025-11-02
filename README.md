@@ -1,5 +1,7 @@
 <img src="header_en.svg"></img>
 
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 ### 👾 About Me
 
 <h4> Engenheiro mecatrônico e especialista em Data Science & IA, com experiência em desenvolvimento de APIs, aplicações web e projetos de Machine Learning. Trabalho com Python, R, React.js, AWS, Docker e Big Data, transformando dados em soluções reais.</h4>

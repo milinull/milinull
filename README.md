@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
 <div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
 

@@ -2,19 +2,19 @@
 
 ### 👾 About Me
 
-<h3> Engenheiro mecatrônico e especialista em Data Science & IA, com experiência em desenvolvimento de APIs, aplicações web e projetos de Machine Learning. Trabalho com Python, R, React.js, AWS, Docker e Big Data, transformando dados em soluções reais.</h3>
+<h4> Engenheiro mecatrônico e especialista em Data Science & IA, com experiência em desenvolvimento de APIs, aplicações web e projetos de Machine Learning. Trabalho com Python, R, React.js, AWS, Docker e Big Data, transformando dados em soluções reais. </>
 
 ---
 
 ### Tecnologias em aprendizado  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-<div align="center" style="min-width: 100%; margin: 0 auto;">
+<div align="center" style="width: 100%; margin: 0 auto;">
 
-<table>
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
 <tr>
-<td width="33%" valign="top" align="center">
+<td valign="top" align="center" style="width: 33%;">
 
-<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
+<div style="border: 2px solid #ddd; border-radius: 12px; padding: 15px; margin: 4px; display: inline-block; max-width: 95%;">
 
 #### 🔹 Linguagens de Programação
 <p align="center">

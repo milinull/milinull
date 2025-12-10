@@ -112,9 +112,9 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats-one-kappa-69.vercel.app/api?username=milinull&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&bg_color=FFFFFF00&cache_seconds=1">
+  <img src="https://github-readme-stats-one-kappa-69.vercel.app/api?username=milinull&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&bg_color=FFFFFF00&cache_seconds=86400">
   
-  <img src="https://github-readme-stats-one-kappa-69.vercel.app/api/top-langs/?username=milinull&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=FFFFFF00&cache_seconds=1">
+  <img src="https://github-readme-stats-one-kappa-69.vercel.app/api/top-langs/?username=milinull&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=FFFFFF00&cache_seconds=86400">
 
   <img src="https://streak-stats.demolab.com?user=milinull&theme=github_dark_dimmed&hide_border=true&background=FFFFFF00">
   <br>
